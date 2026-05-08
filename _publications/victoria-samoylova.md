@@ -1,85 +1,108 @@
 ---
-slug: victoria-samoylova
-categoria: perfiles
-title: "Perfil: Victoria Samoylova"
-description: "Análisis del nodo crítico de interferencia FIMI del Kremlin en España."
-fecha_publicacion: 2026-05-08
+title: "Perfil OSINT: Victoria Samoylova"
+description: "Análisis de inteligencia sobre el nodo operativo de la interferencia rusa y red FIMI en España."
+category: "Perfiles Operativos"
+tags: [FIMI, Samoylova, ADIRE, Kremlin, OSINT]
 ---
 
 <style>
-  /* Fondo blanco puro y texto negro */
   body { background-color: #ffffff !important; color: #000000 !important; }
-  /* Tipografía estilo Máquina de Escribir (Expediente) */
   h1, h2, h3, .expediente-meta { font-family: 'Courier New', Courier, monospace !important; text-transform: uppercase; border-bottom: 2px solid #000; padding-bottom: 5px; }
-  /* El Sello de Evidencia */
   .sello-evidencia { display: inline-block; color: #c0392b; border: 4px solid #c0392b; padding: 8px 15px; font-family: 'Arial Black', Impact, sans-serif; font-size: 1.5rem; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; border-radius: 4px; transform: rotate(-4deg); opacity: 0.85; margin: 20px 0; box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 3px #c0392b; }
-  /* Caja para evidencias */
-  .caja-evidencia { background-color: #f8f9fa; border: 1px solid #000; padding: 15px; margin-bottom: 25px; box-shadow: 5px 5px 0px #000; font-family: sans-serif;}
+  .caja-evidencia { background-color: #f8f9fa; border: 1px solid #000; padding: 15px; margin-bottom: 25px; box-shadow: 5px 5px 0px #000; }
   .censurado { background-color: #000; color: #000; padding: 0 4px; }
   .censurado:hover { color: #fff; }
 </style>
 
 <div class="expediente-meta">
   <strong>EXPEDIENTE:</strong> MAD-2026-PERFIL-01<br>
-  <strong>SUJETO:</strong> VICTORIA SAMOYLOVA<br>
-  <strong>ROL IDENTIFICADO:</strong> NODO OPERATIVO FIMI (Sharp Power)<br>
-  <strong>CLASIFICACIÓN:</strong> DESCLASIFICADO / FUENTES ABIERTAS (OSINT)
+  <strong>SUJETO OPERATIVO:</strong> Victoria Samoylova<br>
+  <strong>AFILIACIÓN:</strong> ADIRE / Regimiento Inmortal España<br>
+  <strong>CLASIFICACIÓN:</strong> FIMI / NODO DE INTELIGENCIA ESTRATÉGICA (OSINT)<br>
+  <strong>FECHA DE ACTUALIZACIÓN:</strong> 08-MAY-2026
 </div>
 
-# Victoria Samoylova: Arquitecta de la influencia rusa en España
+# Victoria Samoylova: Arquitecta de la Interferencia Rusa en España
 
-El análisis forense de la red operativa en Madrid identifica a la ciudadana rusa **Victoria Samoylova** (nacida en Podporojye y residente en España) como el nodo crítico de la interferencia del Kremlin en territorio español. Preside la *Asociación para el Desarrollo de la Cooperación entre Rusia y España (ADIRE)* y coordina la marcha del "Regimiento Inmortal". Su perfil trasciende el activismo comunitario, situándose como una operadora de influencia de alto nivel con acceso a la cúpula del Estado ruso.
+El análisis forense de la red operativa en Madrid identifica inequívocamente a **Victoria Samoylova** como el nodo crítico de la interferencia del Kremlin en España. Nacida en Podporojye y residente en España, opera bajo la cobertura legal de la presidencia de la Asociación para el Desarrollo de la Cooperación entre Rusia y España (ADIRE). Su perfil ha superado la mera actividad comunitaria para consolidarse como una operadora de *Sharp Power* de alto nivel, con acceso directo a la cúpula del poder en Moscú y capacidad de movilización de redes transnacionales.
 
-<div class="sello-evidencia">EVIDENCIA #01</div>
+<div class="sello-evidencia">EVIDENCIA #01: CONEXIÓN ESTATAL</div>
 
 <div class="caja-evidencia">
-  <strong>HECHO COMPROBADO:</strong> Validación Presidencial en Moscú<br>
-  <strong>FECHA:</strong> 30 de abril de 2025<br>
-  <strong>FUENTE:</strong> Maratón propagandístico "Znanie. Pervye" (Museo de la Victoria, Moscú)<br>
+  <strong>FUENTE:</strong> Registros del Maratón "Znanie. Pervye" (Moscú) / Análisis de EK Strategies [<a href="https://ekstrategies.org/articles/kremlin-fimi-campaigns-in-europe-spain">Ref. 1</a>]<br>
+  <strong>FECHA DEL EVENTO:</strong> 30 de abril de 2025
   <hr>
-  <p>Samoylova fue presentada ante <strong>Vladímir Putin</strong> como coordinadora del "Regimiento Inmortal". Durante el encuentro, Putin validó públicamente su "valentía" para mantener la narrativa rusa en territorio de la OTAN y aceptó su propuesta de coordinar a los líderes de la diáspora. Esta validación actúa como una directiva para que agencias como <em>Rossotrudnichestvo</em> garanticen el flujo de recursos hacia la célula en Madrid.</p>
+  <p><strong>REPORTE TÁCTICO:</strong> La relevancia de Samoylova fue confirmada institucionalmente en el Museo de la Victoria de Moscú. Fue presentada ante <strong>Vladimir Putin</strong> como la gestora de "uno de los Regimientos Inmortales más masivos de Europa". Durante el intercambio, Putin validó públicamente su "valentía" para mantener la narrativa rusa en territorio OTAN y aceptó su propuesta de coordinar reuniones internacionales de líderes de la diáspora. </p>
+  <p><strong>>> NOTA DEL ANALISTA:</strong> Esta validación presidencial actúa como una directiva en firme. Instituye a la red de Madrid como un activo estratégico, garantizando el flujo de recursos logísticos, informacionales y financieros desde agencias estatales como <em>Rossotrudnichestvo</em> y <em>Pravfond</em>.</p>
 </div>
 
-## 1. La Fachada Cultural y la Cooptación Local
+## 1. El Entorno Operativo: ADIRE y la Fachada Cultural
 
-La operación dirigida por Samoylova utiliza a ADIRE como cobertura legal para navegar el ecosistema democrático español. El uso de asociaciones culturales es una táctica estándar de **FIMI** (Manipulación de Información e Interferencia Extranjera), eludiendo el escrutinio de contrainteligencia bajo el paraguas de la libertad de asociación [EK Strategies](https://ekstrategies.org/insights-and-analysis/kremlin-fimi-campaigns-in-europe-spain).
+La operación dirigida por Samoylova utiliza la asociación ADIRE para navegar sin fricciones dentro del ecosistema democrático español. El uso de asociaciones culturales es una táctica fundacional de FIMI (Manipulación de Información e Interferencia Extranjera), ya que permite eludir el escrutinio directo de los servicios de contrainteligencia parapetándose tras los derechos civiles de asociación y la diplomacia pública.
 
-* **Estrategia de "Espejo" (Falsa Equivalencia):** Samoylova ha instrumentalizado la historia de España, vinculándose con colectivos de extrema izquierda y grupos antifascistas. Participa en foros sobre los "Niños de la Guerra" o el Quinto Regimiento para que el ciudadano asocie la resistencia republicana de 1936 con la agresión rusa a Ucrania en 2022. Esta cooptación logra que actores locales actúen, a menudo de forma inconsciente, como amplificadores de la propaganda rusa.
+A través de ADIRE, la red inyecta narrativas estratégicas del Kremlin en la opinión pública local. Una de las operaciones psicológicas (PsyOps) más sofisticadas documentadas es la **instrumentalización de la memoria histórica española**. 
+* Samoylova ha forjado vínculos sistemáticos con colectivos de la extrema izquierda y grupos antifascistas españoles, infiltrándose en foros sobre los "Niños de la Guerra" y el Quinto Regimiento. 
+* Esta táctica de "espejo inverso" busca que el ciudadano español asocie subliminalmente la legítima resistencia republicana de 1936 con la agresión imperialista rusa a Ucrania en 2022. 
+* Al cooptar el léxico del antifascismo ibérico, actores locales actúan de forma inconsciente como amplificadores e idiotas útiles de la maquinaria propagandística del Kremlin en las calles de Madrid.
 
-## 2. El Doble Discurso: La Falsa "Kristallnacht" en Madrid
+## 2. Cronología de la Interferencia FIMI en Madrid (2022-2025)
 
-Mientras en España apela a la "memoria y la paz", Samoylova proyecta un discurso radical hacia el interior de Rusia para fomentar el apoyo a la guerra.
-
-<div class="sello-evidencia" style="transform: rotate(2deg);">EVIDENCIA #02</div>
+El seguimiento longitudinal de las marchas revela un diseño iterativo, donde cada edición genera un producto comunicativo específico destinado al consumo interno en Rusia, ignorando la realidad demográfica española.
 
 <div class="caja-evidencia">
-  <strong>ANÁLISIS DE NARRATIVA:</strong> Construcción de Victimismo Extremo<br>
-  <strong>FUENTES:</strong> Canal estatal ortodoxo Spas (29/12/2024) y Medio Podporojye (08/05/2025)<br>
-  <hr>
-  <p><em>"Un poco más y habría ocurrido lo mismo que en Alemania antes de la Segunda Guerra Mundial... teníamos miedo de salir de casa."</em></p>
-  <p><strong>>> NOTA DEL ANALISTA (Fact-Check):</strong> Samoylova compara la situación en Madrid con la <em>Noche de los Cristales Rotos</em>. Esta hipérbole es una invención demostrable: las estadísticas del Ministerio del Interior no registran ningún pico de violencia hacia rusos. Instrumenta el Holocausto para justificar la invasión, cohesionar a la diáspora mediante el miedo y presentar la vida en España como un acto de "resistencia heroica".</p>
+  <strong>EVOLUCIÓN TÁCTICA Y RADICALIZACIÓN NARRATIVA</strong>
+  <table style="width:100%; border-collapse: collapse; margin-top: 10px;">
+    <tr style="background-color: #000; color: #fff;">
+      <th style="padding: 8px; border: 1px solid #ccc;">Año</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Táctica Principal</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Narrativa Central</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Auditoría de Asistencia</th>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc; font-weight: bold;">2022</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Victimización Extrema</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Falsa "Noche de los Cristales Rotos" en Madrid.</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">~1.500 (Cifra fabricada por Samoylova).</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc; font-weight: bold;">2023</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Cooptación de Locales</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Falsa solidaridad republicana española hacia la invasión.</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">No especificado.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc; font-weight: bold;">2024</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Polarización OTAN</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Falsa equivalencia (Whataboutism): Víctimas del Donbás = Víctimas de Gaza.</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">No especificado.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc; font-weight: bold;">2025</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Exhibición Separatista</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">Triunfalismo militar y despliegue de la bandera de la RPD.</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">3.000 (Reclamados) / <strong>450 (Reales)</strong>.</td>
+    </tr>
+  </table>
 </div>
 
-## 3. Soporte Logístico e Ideológico a la Invasión (SVO)
+### Análisis de Falsación Histórica: El Mito de la "Kristallnacht" Madrileña
+En entrevistas concedidas a medios rusos como el canal estatal ortodoxo *Spas* y medios de *Podporojye*, Samoylova fabricó un escenario de terror, afirmando que los rusos en España sufrían persecución, comparando la situación con la *Kristallnacht* nazi, afirmando tener "miedo de salir de casa" por amenazas de ataques con ácido. 
+**Verificación:** Los informes del Ministerio del Interior de España desmontan esta falacia. España mantiene uno de los índices de delitos de odio más bajos de Europa, y no existió ningún pico de criminalidad contra ciudadanos rusos. Esta narrativa, carente de base empírica, tiene como fin cohesionar a la diáspora mediante el pánico e inyectar indignación en la audiencia rusa, presentando a Europa como un entorno fascista letal.
 
-Investigaciones internacionales han documentado que la red española no solo emite propaganda, sino que presta apoyo material y moral a la maquinaria de guerra:
+<div class="sello-evidencia" style="transform: rotate(3deg);">EVIDENCIA #02: APOYO A LA GUERRA</div>
 
-1.  **Apoyo a la 25ª Brigada Rusa:** Reportes de *European Pravda* y *United24 Media* indican que Samoylova habría ayudado a organizar el envío de suministros a una unidad médica de la 25ª brigada rusa desplegada en territorio ocupado en la dirección de Járkov [United24 Media](https://united24media.com/anti-fake/russia-brings-war-narrative-to-europe-through-immortal-regiment-events-in-spain-18322).
-2.  **Infraestructura Digital FIMI:** Las campañas en español se apoyan en redes de Telegram (canales ligados a *Rybar, InfoDefenseESPAÑOL*, etc.) que replican marcos antiucranianos. Archivos interceptados muestran a Samoylova participando en eventos del *Comité de Familias de Combatientes de la Patria*, brindando soporte ideológico, moral y de movilización para los combatientes de la SVO [EK Strategies](https://ekstrategies.org/articles/kremlin-fimi-campaigns-in-europe-spain).
+<div class="caja-evidencia">
+  <strong>OPERACIONES LOGÍSTICAS Y REDES MULTIPLICADORAS</strong><br>
+  <strong>FUENTES:</strong> United24 Media / European Pravda [<a href="https://united24media.com/anti-fake/russia-brings-war-narrative-to-europe-through-immortal-regiment-events-in-spain-18322">Ref. 2</a>] | Informes OSINT [<a href="https://ekstrategies.org/insights-and-analysis/kremlin-fimi-campaigns-in-europe-spain">Ref. 3</a>]
+  <hr>
+  <p><strong>APOYO AL FRENTE (SVO):</strong> Lejos de la retórica de paz, reportes de investigación documentan que la red liderada por Samoylova habría facilitado la organización y envío de apoyo y suministros destinados a unidades militares invasoras. Específicamente, se ha trazado apoyo canalizado hacia una <strong>unidad médica de la 25ª brigada rusa desplegada en el frente de Kharkiv</strong>. Las comunicaciones interceptadas en Telegram muestran a Samoylova participando en foros del "Comité de Familias de Combatientes de la Patria", dotando a la invasión de soporte moral, religioso y material.</p>
+  <p><strong>MULTIPLICACIÓN DIGITAL:</strong> El ecosistema digital en español está altamente coordinado. La red de Samoylova interactúa y es amplificada por plataformas de propaganda militar ligadas a la inteligencia rusa, incluyendo canales como <strong>Rybar</strong>, <strong>InfoDefenseESPAÑOL</strong> y <strong>UKR LEAKS_esp</strong>. Estos canales actúan como enjambres de desinformación que replican los marcos antiucranianos en toda América Latina y España.</p>
+</div>
 
-## 4. Cronología de la Interferencia (Escalada Táctica 2022-2025)
+## 3. Mecanismos de FIMI: La Fabricación Estructural de Datos
 
-El análisis de las marchas en Madrid revela una sofisticación creciente en el control de la información, diseñando eventos específicos para alimentar la televisión estatal rusa.
+La asimetría entre la realidad material en España y la representación mediática en Rusia es la firma táctica de esta operación FIMI. 
 
-| Año | Táctica FIMI Principal | Narrativa Central | Asistencia (Reclamada vs Real) |
-| :--- | :--- | :--- | :--- |
-| **2022** | **Victimización Extrema** | "Noche de los Cristales Rotos" en Madrid. | ~1.500 (según Samoylova). |
-| **2023** | **Cooptación Local** | Uso de grupos antifascistas como cordón de seguridad contra ucranianos. | No verificable de forma independiente. |
-| **2024** | **Whataboutism (Desvío)** | Infiltración en marchas propalestinas: Víctimas del Donbás = Víctimas de Gaza. | No aplicable (marcha diluida). |
-| **2025** | **Exhibición Separatista** | Triunfalismo militar y despliegue de la bandera de la RPD (Rep. Pop. Donetsk). | **Reclamada:** 3.000 / **Real:** ~450. |
+Durante la marcha de 2025, el conglomerado estatal ruso (*TASS, RIA Novosti, Lenta.ru*) distribuyó internacionalmente el evento como "la manifestación más masiva de Europa", reportando 3.000 asistentes. La telemetría independiente y el conteo de cabezas (crowd estimation) demostraron una afluencia real de apenas **400 a 500 personas**. 
 
-### La Fabricación del Eco Mediático
-
-Una táctica crítica identificada es la distorsión asimétrica. En 2025, agencias rusas (*TASS, RIA Novosti, Lenta.ru*) calificaron la marcha de Madrid como "la más masiva de Europa", reportando 3.000 asistentes [EK Strategies](https://ekstrategies.org/insights-and-analysis/kremlin-fimi-campaigns-in-europe-spain). El conteo OSINT independiente demostró que apenas superaron las 450 personas (una inflación de x6). 
-
-**Conclusión Operativa:** El centro de Madrid está siendo utilizado de forma consentida como un "set de producción" para fabricar la ilusión de que el pueblo español apoya la invasión y burlar así, cognitivamente, el régimen de sanciones europeo.
+Este **factor de exageración de x6** es vital para la guerra cognitiva de Moscú. Mediante tiros de cámara cerrados y edición selectiva de banderas paramilitares (RPD) y cintas de San Jorge, Madrid es reducida a un mero "set de rodaje". El objetivo estratégico no es cambiar la política española, sino anestesiar a la población rusa, fabricando la ilusión de que el régimen de sanciones es inútil y que existe un consenso popular masivo en el corazón de Europa que apoya activamente la aniquilación del Estado ucraniano.
