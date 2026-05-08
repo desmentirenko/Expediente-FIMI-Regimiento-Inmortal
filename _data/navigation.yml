@@ -8,23 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "EXPEDIENTE"
+    url: /
+  - title: "EVIDENCIA: LA CINTA"
+    url: /portfolio/la-cinta-de-guerra/
+  - title: "EVIDENCIA: MANUAL ODIO"
+    url: /portfolio/anatomia-deshumanizacion/
+  - title: "PERFIL: SAMOYLOVA"
+    url: /portfolio/victoria-samoylova/
+  - title: "DOSSIERS (PDF)"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
