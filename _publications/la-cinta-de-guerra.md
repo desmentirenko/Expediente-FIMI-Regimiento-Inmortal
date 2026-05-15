@@ -7,7 +7,7 @@ paperurl: "/files/Press_Kit_Propaganda.pdf"
 citation: "Sistema Argos. (2026). 'La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión'. Informe de Inteligencia OSINT."
 ---
 
-## La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión de Ucrania
+## 111La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión de Ucrania
 
 tags: \[Geopolítica, Desinformación, Rusia, Memoria Histórica\]  
 La Ley Federal N.º 579-FZ (2022) \- [Федеральный закон от 29.12.2022 г. № 579-ФЗ • Президент России](http://www.kremlin.ru/acts/bank/48829)
