@@ -1,5 +1,5 @@
 ---
-title: "La Cinta de San Jorge: Símbolo de la Invasión de Ucrania, No de Memoria"
+title: "0101La Cinta de San Jorge: Símbolo de la Invasión de Ucrania, No de Memoria"
 excerpt: "Análisis exhaustivo sobre la metamorfosis del símbolo, la ingeniería histórica del Kremlin y el marco legal que criminaliza su crítica."
 date: 2026-05-08
 venue: "Expediente FIMI - Nodo España"
@@ -12,7 +12,7 @@ citation: "Sistema Argos. (2026). 'La Cinta de San Jorge: Del Símbolo Zarista a
 tagsss: \[Geopolítica, Desinformación, Rusia, Memoria Histórica\]  
 La Ley Federal N.º 579-FZ (2022) \- [Федеральный закон от 29.12.2022 г. № 579-ФЗ • Президент России](http://www.kremlin.ru/acts/bank/48829)
 
-# La Cinta de San Jorge: Símbolo de Invasión, No de Memoria
+# 000La Cinta de San Jorge: Símbolo de Invasión, No de Memoria
 
 Con vistas a la marcha programada para 2026 en Madrid, se ha identificado una estrategia de distribución masiva de la **Cinta de San Jorge** (Георгиевская лента). Bajo la apariencia de un tributo tradicional a las víctimas de la Segunda Guerra Mundial, la distribución de este emblema funciona como una herramienta de **Sharp Power**. Su objetivo real es integrar y legitimar el discurso militarista del Kremlin dentro del entorno europeo, ocultando una estrategia de influencia política tras un acto de piedad filial. Resulta esencial desentrañar su base jurídica, la deliberada omisión de periodos históricos y su rol contemporáneo como insignia bélica para evaluar el peligro que conlleva su exhibición en el espacio público español.
 
