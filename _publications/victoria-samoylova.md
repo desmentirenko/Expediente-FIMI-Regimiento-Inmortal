@@ -24,7 +24,7 @@ tags: [FIMI, Samoylova, ADIRE, Kremlin, OSINT]
 
 # Victoria Samoylova: Arquitecta de la Interferencia Rusa en España
 
-El análisis forense de la red operativa en Madrid identifica inequívocamente a **Victoria Samoylova** como el nodo crítico de la interferencia del Kremlin en España. Nacida en Podporojye y residente en España, opera bajo la cobertura legal de la presidencia de la Asociación para el Desarrollo de la Cooperación entre Rusia y España (ADIRE). Su perfil ha superado la mera actividad comunitaria para consolidarse como una operadora de *Sharp Power* de alto nivel, con acceso directo a la cúpula del poder en Moscú y capacidad de movilización de redes transnacionales.
+El 0000 análisis forense de la red operativa en Madrid identifica inequívocamente a **Victoria Samoylova** como el nodo crítico de la interferencia del Kremlin en España. Nacida en Podporojye y residente en España, opera bajo la cobertura legal de la presidencia de la Asociación para el Desarrollo de la Cooperación entre Rusia y España (ADIRE). Su perfil ha superado la mera actividad comunitaria para consolidarse como una operadora de *Sharp Power* de alto nivel, con acceso directo a la cúpula del poder en Moscú y capacidad de movilización de redes transnacionales.
 
 <div class="sello-evidencia">EVIDENCIA #01: CONEXIÓN ESTATAL</div>
 
